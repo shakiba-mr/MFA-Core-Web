@@ -1,7 +1,7 @@
 *************
 Note : You need Docker Desktop running 
 *************
-I am using Docker for easy reproduce the program so you just need to run this line in the terminal at the root path of the folder
+We are using Docker for easy reproduce the program so you just need to run this line in the terminal at the root path of the folder
 
 docker compose up --build
 
